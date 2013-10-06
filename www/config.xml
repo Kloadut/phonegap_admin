@@ -7,6 +7,11 @@
     <author email="yunohost@yunohost.org" href="http://yunohost.org">
         YunoHost team
     </author>
+    <gap:platform name="ios" />
+    <gap:platform name="android" />
+    <gap:platform name="webos" />
+    <gap:platform name="blackberry" />
+    <gap:platform name="winphone" />
     <feature name="http://api.phonegap.com/1.0/device" />
     <feature id="blackberry.widgetcache" required="true" version="1.0.0.0" />
     <preference name="permissions" value="none" />
