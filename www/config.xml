@@ -2,7 +2,7 @@
 <widget id="com.yunohost.admin" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>YunoHost</name>
     <description>
-        YunoHost admin app
+        YunoHost Administration
     </description>
     <author email="yunohost@yunohost.org" href="http://yunohost.org">
         YunoHost team
